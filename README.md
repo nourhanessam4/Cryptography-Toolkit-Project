@@ -80,15 +80,7 @@ The application displays the selected algorithm, salt, and resulting hash.
 | Encoding              | Base64, Hex, URL Encoding |
 | Block Cipher Mode     | CBC                       |
 
-## Project Structure
-
-```text
-Crypto Toolkit
-│
-└── crypto_app.py
-```
-
-The complete application is implemented in `app.py`.
+The complete application is implemented in `crypto_app.py`.
 
 ## Main Libraries
 
